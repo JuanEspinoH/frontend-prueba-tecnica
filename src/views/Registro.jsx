@@ -139,7 +139,7 @@ const Registro = () => {
           <input
             className="w-full my-3 text-2xl border-2 rounded-md border-blue-400"
             id="password"
-            type="text"
+            type="password"
             name="password"
             value={formInfo.password}
             onChange={handleChange}
